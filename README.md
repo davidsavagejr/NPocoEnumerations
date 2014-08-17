@@ -46,3 +46,7 @@ public class EnumerationMapper : DefaultMapper
         }
     }
 ```
+
+Sources
+=================
+Thanks to a helpful breakdown here - https://github.com/schotime/NPoco/issues/58
