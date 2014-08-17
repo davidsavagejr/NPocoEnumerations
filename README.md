@@ -1,4 +1,3 @@
-NPocoEnumerations
+Enumeration Support with NPoco
 =================
-
-A sample implementation of how to support Enumerations with NPoco
+This is a sample of how to implement support for the Headspring Enumeration class when using NPoco.  
