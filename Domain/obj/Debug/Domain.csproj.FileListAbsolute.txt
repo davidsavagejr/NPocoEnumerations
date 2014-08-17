@@ -1,0 +1,7 @@
+C:\repositories\NPocoEnumeration\Domain\bin\Debug\Domain.dll
+C:\repositories\NPocoEnumeration\Domain\bin\Debug\Domain.pdb
+C:\repositories\NPocoEnumeration\Domain\bin\Debug\NPoco.dll
+C:\repositories\NPocoEnumeration\Domain\bin\Debug\NPoco.pdb
+C:\repositories\NPocoEnumeration\Domain\obj\Debug\Domain.dll
+C:\repositories\NPocoEnumeration\Domain\obj\Debug\Domain.pdb
+C:\repositories\NPocoEnumeration\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

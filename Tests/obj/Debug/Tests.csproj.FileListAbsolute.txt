@@ -1,0 +1,13 @@
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\Tests.dll.config
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\Tests.dll
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\Tests.pdb
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\Domain.dll
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\NPoco.dll
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\nunit.framework.dll
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\Domain.pdb
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\NPoco.pdb
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\nunit.framework.xml
+C:\repositories\NPocoEnumeration\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\repositories\NPocoEnumeration\Tests\obj\Debug\Tests.dll
+C:\repositories\NPocoEnumeration\Tests\obj\Debug\Tests.pdb
+C:\repositories\NPocoEnumeration\Tests\bin\Debug\Should.dll
